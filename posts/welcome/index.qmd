@@ -2,12 +2,12 @@
 title: "What is Machine Learning? A Fun Guide for Teens"
 author: "Ismail (Husain) Bhinderwala"
 date: "2025-01-18"
-image: intro.webp
+image: intro.avif
 categories: [Explanation]
 ---
 
 <figure style="text-align: center;">
-  ![](intro.webp)
+  ![](intro.avif)
   <figcaption>Machine Learning. Image Credit: [Source](https://img.freepik.com/premium-photo/3d-rendering-robot-learning-machine-learning-with-education-hud-interface_493806-5980.jpg?semt=ais_hybrid)</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ Did you know there are different ways a computer can learn? Here are three main 
 3. **Reinforcement Learning**: This is like a video game! The computer learns by trial and error, getting rewards for doing things correctly. Self-driving cars use this method to learn how to navigate roads.
 
 <figure style="text-align: center;">
-  ![](learning.webp)
+  ![](learning.jpg)
   <figcaption>Fig.2: A fun analogy showing Supervised and Unsupervised Learning. Image Credit: [Source](https://www.javatpoint.com/difference-between-supervised-and-unsupervised-learning)</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ But it’s not just about fun. Machine learning is solving real-world problems t
 - **Transportation**: Self-driving cars use ML to make safe and quick decisions on the road.
 
 <figure style="text-align: center;">
-  ![](thumbnail.jpg)
+  ![](app.jpg)
   <figcaption>Fig.3: Applications of Machine Learning.</figcaption>
 </figure>
 
