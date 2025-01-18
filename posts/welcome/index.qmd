@@ -73,4 +73,4 @@ Machine learning isn’t about replacing people—it’s about working alongside
 
 So, next time you’re on TikTok or playing a video game, remember: there’s a little bit of machine learning magic behind it all. Who knows? Maybe one day, you’ll be the one creating that magic!
 
-For some beginner-friendly resources on getting started with Machine Learning, check out our [Beginner-friendly resources for Machine Learning](https://towardsdatascience.com/beginner-friendly-resources-for-machine-learning-fd198f844dc3).
+For some beginner-friendly resources on getting started with Machine Learning, check out this [Beginner-friendly resources for Machine Learning](https://towardsdatascience.com/beginner-friendly-resources-for-machine-learning-fd198f844dc3).
